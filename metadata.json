@@ -1,0 +1,6 @@
+{
+  "name": "Adinkra Frontiers Ltd",
+  "description": "Adinkra Frontiers Ltd supplies fresh table eggs, quality poultry products and reliable farm supplies from Sanfo/Aduam, Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

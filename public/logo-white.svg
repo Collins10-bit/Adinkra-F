@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldGradientW" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB300" />
+      <stop offset="100%" stop-color="#F5A300" />
+    </linearGradient>
+  </defs>
+
+  <!-- Brand Emblem Lockup -->
+  <g transform="translate(10, 10)">
+    <path d="M 50,0 C 78,0 100,24 100,55 C 100,82 78,100 50,100 C 22,100 0,82 0,55 C 0,24 22,0 50,0 Z" fill="#FFFFFF" />
+    <path d="M 50,6 C 74,6 94,27 94,54 C 94,77 74,94 50,94 C 26,94 6,77 6,54 C 6,27 26,6 50,6 Z" fill="none" stroke="url(#goldGradientW)" stroke-width="3" stroke-dasharray="140 10" />
+
+    <g fill="none" stroke="#0738A6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 32,46 C 32,32 42,24 50,24 C 58,24 68,32 68,46 C 68,64 50,76 50,76 C 50,76 32,64 32,46 Z" fill="#0738A6" fill-opacity="0.08" />
+      <path d="M 28,52 Q 50,38 72,52" stroke="url(#goldGradientW)" stroke-width="3" />
+      <ellipse cx="50" cy="46" rx="9" ry="12" fill="url(#goldGradientW)" stroke="#0738A6" stroke-width="2" />
+      <circle cx="50" cy="44" r="3" fill="#FFFFFF" />
+    </g>
+
+    <circle cx="28" cy="24" r="2.5" fill="#F5A300" />
+    <circle cx="72" cy="24" r="2.5" fill="#F5A300" />
+    <path d="M 50,12 L 50,17" stroke="#F5A300" stroke-width="2.5" stroke-linecap="round" />
+  </g>
+
+  <!-- Typography Brand Lockup -->
+  <text x="125" y="52" font-family="'Outfit', 'Plus Jakarta Sans', sans-serif" font-size="34" font-weight="800" fill="#FFFFFF" letter-spacing="0.04em">ADINKRA</text>
+  <text x="282" y="52" font-family="'Outfit', 'Plus Jakarta Sans', sans-serif" font-size="34" font-weight="800" fill="#F5A300" letter-spacing="0.04em">FRONTIERS</text>
+  <text x="472" y="52" font-family="'Outfit', 'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="700" fill="#FFF8ED" letter-spacing="0.1em">LTD</text>
+
+  <rect x="125" y="65" width="375" height="2" rx="1" fill="#FFFFFF" fill-opacity="0.25" />
+  <rect x="125" y="65" width="70" height="2" rx="1" fill="#F5A300" />
+
+  <text x="125" y="85" font-family="'Plus Jakarta Sans', sans-serif" font-size="13.5" font-weight="500" fill="#FFF8ED" fill-opacity="0.9" letter-spacing="0.02em">
+    EXPANDING THE FRONTIERS OF POULTRY AGRIBUSINESS
+  </text>
+</svg>

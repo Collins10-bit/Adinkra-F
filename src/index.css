@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-royal-blue: #0738A6;
+  --color-deep-navy: #082B66;
+  --color-golden-orange: #F5A300;
+  --color-warm-cream: #FFF8ED;
+  --color-dark-navy: #172033;
+  --font-display: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-body: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-warm-cream);
+  color: var(--color-dark-navy);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+/* Custom focus ring matching brand royal blue */
+:focus-visible {
+  outline: 2px solid #0738A6;
+  outline-offset: 2px;
+}
+
